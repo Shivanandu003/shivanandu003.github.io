@@ -29,19 +29,6 @@ Every bug in here was fixed by a real human brain (mine), powered by tea and pan
 - **JavaScript**: the moving parts (please don't ask how they move)
 - **GitHub Pages**: the building, with free rent. Best landlord ever 
 
-##  Take a Self-Guided Tour
-
-No build step, no framework, no `npm install`, no 400 MB of `node_modules`. Just vibes. And files.
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/Shivanandu003/Shivanandu003.github.io.git
-cd Shivanandu003.github.io
-
-# 2. Open index.html in your browser. That's the whole tour.
-```
-
-Or double-click `index.html` and pretend you ran a server.
 
 ##  Why This Museum Exists
 
